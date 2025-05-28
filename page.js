@@ -14,7 +14,7 @@ export default function login_page() {
             <div className="text-left font-bold ">
               <spam className="text-green-500">Company</spam>  Name
             </div>
-            <div className="py-10">
+            <div className="py-10">    
               <h2 className="text-3xl font-bold text-green-500 mb-2">sign in to <spam className="text-black">Account</spam></h2>
               <div className="border-2 w-10 border-green-500 inline-block mb-2"></div>
               <div className="flex justify-center my-2  gap-2">
