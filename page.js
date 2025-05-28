@@ -13,7 +13,7 @@ export default function login_page() {
         <div className="w-3/5 p-5">
             <div className="text-left font-bold ">
               <spam className="text-green-500">Company</spam>  Name
-            </div>
+            </div>  
             <div className="py-10">    
               <h2 className="text-3xl font-bold text-green-500 mb-2">sign in to <spam className="text-black">Account</spam></h2>
               <div className="border-2 w-10 border-green-500 inline-block mb-2"></div>
